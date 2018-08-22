@@ -1,1 +1,3 @@
-# enigma
+# Enigma
+
+Just another OpenSSL wrapper.
