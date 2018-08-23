@@ -14,8 +14,8 @@
     "php": ">=5.6"
   },
   "autoload": {
-    "psr-4": {
-      "\\": "src"
+    "psr-0": {
+      "Enigma": "src/"
     }
   }
 }
