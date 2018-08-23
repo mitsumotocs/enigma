@@ -1,0 +1,21 @@
+{
+  "name": "mitsumotocs/enigma",
+  "description": "Just another OpenSSL wrapper",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Joji Mitsumoto",
+      "email": "mitsumotocs@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "\\": "src"
+    }
+  }
+}
